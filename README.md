@@ -1,5 +1,7 @@
 # NdrSupport
 
+[![Join the chat at https://gitter.im/timgentry/ndr_support](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/timgentry/ndr_support?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is the Public Health England (PHE) National Disease Registers (NDR) Support ruby gem, providing:
 
 1. core ruby class extensions;
